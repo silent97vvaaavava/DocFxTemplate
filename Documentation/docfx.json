@@ -62,7 +62,7 @@
             }
         ],
         "sitemap": {
-            "baseUrl": "https://normanderwan.github.io/DocFxForUnity",
+            "baseUrl": "https://silent97vvaaavava.github.io/DocFxTemplate",
             "changefreq": "weekly",
             "fileOptions": {
                 "api/*": {
