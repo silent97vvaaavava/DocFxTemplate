@@ -11,7 +11,7 @@ online: <https://normanderwan.github.io/DocFxForUnity/>. It references both C# A
 
 | DocFxForUnity documentation manual |
 |:----------------------------------:|
-| [![DocFxForUnity documentation manual](https://silent97vvaaavava.github.io/DocFxTemplate/Documentation/resources/ExampleManual.png)](https://silent97vvaaavava.github.io/DocFxTemplate/Documentation/manual/coniunctis.html) |
+| [![DocFxForUnity documentation manual](https://silent97vvaaavava.github.io/DocFxTemplate/resources/ExampleManual.png)](https://silent97vvaaavava.github.io/DocFxTemplate/Documentation/manual/coniunctis.html) |
 
 | DocFxForUnity documentation scripting API |
 |:----------------------------------:|
